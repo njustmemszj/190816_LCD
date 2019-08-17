@@ -1,0 +1,10 @@
+D:/01_Xilinx_FPGA/1908_IIC_slave_PSoC/190816_LCD/190816_LCD.cydsn/CortexM3/ARM_GCC_541/Debug/CyBootAsmGnu.o : D:/01_Xilinx_FPGA/1908_IIC_slave_PSoC/190816_LCD/190816_LCD.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s D:/01_Xilinx_FPGA/1908_IIC_slave_PSoC/190816_LCD/190816_LCD.cydsn/Generated_Source/PSoC5/cydevicegnu.inc D:/01_Xilinx_FPGA/1908_IIC_slave_PSoC/190816_LCD/190816_LCD.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc D:/01_Xilinx_FPGA/1908_IIC_slave_PSoC/190816_LCD/190816_LCD.cydsn/Generated_Source/PSoC5/cyfittergnu.inc 
+
+D:/01_Xilinx_FPGA/1908_IIC_slave_PSoC/190816_LCD/190816_LCD.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s : 
+
+D:/01_Xilinx_FPGA/1908_IIC_slave_PSoC/190816_LCD/190816_LCD.cydsn/Generated_Source/PSoC5/cydevicegnu.inc : 
+
+D:/01_Xilinx_FPGA/1908_IIC_slave_PSoC/190816_LCD/190816_LCD.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc : 
+
+D:/01_Xilinx_FPGA/1908_IIC_slave_PSoC/190816_LCD/190816_LCD.cydsn/Generated_Source/PSoC5/cyfittergnu.inc : 
+

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|d274ded6-6a15-4263-b2a8-918dadc0dae5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|d2e9da82-1f04-44d1-9459-fdf93595415c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|ba3adbb1-b5e1-4cf2-8c08-30e9852efe0c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|996c7248-810e-4df7-87af-110ce1db556e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|500ca4d6-9c78-43c8-a459-d37c2abd89e2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|8f3d0950-f15b-419e-beb8-4b2d1b8c4a48
+D:\01_Xilinx_FPGA\1908_IIC_slave_PSoC\190816_LCD\190816_LCD.cydsn\190816_LCD.cyprj|97852cb7-4fa8-4ef3-b814-6c24d1971ad2
